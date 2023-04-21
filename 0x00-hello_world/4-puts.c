@@ -5,7 +5,7 @@
  *
  * Description: A C peogram that prints with put function
  *
- * Return: Always 0 (success) 
+ * Return: Always 0 (success)
  */
 
 int main(void)
